@@ -1,6 +1,6 @@
 # Deploy GithubPages
 
-- `ionic build --prod -- --base-href https://byMagg.github.io/portfolio/`
+- `ionic build --prod -- --base-href https://dbarrosourr.github.io/portfolio/`
 - `npx angular-cli-ghpages --dir=www`
 
 
